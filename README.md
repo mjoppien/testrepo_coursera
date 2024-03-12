@@ -1,6 +1,6 @@
 # testrepo_coursera
-test repo for Coursera course Capstone
+Coursera Data Science Capstone course - Falcon 9 landing data 
+Jupyter notebooks and py-code
 
-Malte Joppien 6.3.24
-
-## headding ?
+<hr>
+Malte Joppien 6 - 12.3.24
